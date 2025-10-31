@@ -189,7 +189,7 @@ const App = () => {
                   <Shield size={20} />
                   <span>Can thiệp điều tiết nền kinh tế</span>
                 </div>
-                <img src="https://cdnphoto.dantri.com.vn/rCa1AByaGRIMrNg2QKjpI3_tqTM=/zoom/1200_630/2019/05/04/mdocquyen-1556916683912.jpg" alt="Biểu đồ độc quyền" className="w-full h-48 object-contain rounded-xl bg-gray-50" />
+                <img src="https://pvonline.ca/wp-content/uploads/2024/09/Capitalism-controls-state-crop.jpg" alt="Biểu đồ độc quyền" className="w-full h-48 object-contain rounded-xl bg-gray-50" />
               </div>
             </div>
 
