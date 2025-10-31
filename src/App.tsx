@@ -650,7 +650,7 @@ const App = () => {
               </div>
 
               <div className="mb-6 bg-gradient-to-r from-blue-100 to-purple-100 rounded-2xl p-6">
-                <img src="https://cdnphoto.dantri.com.vn/87aopo_0FowpEPIngmy9VVSYWUg=/zoom/1200_630/2022/08/12/thai-tu-samsung-duoc-de-nghi-an-xadocx-1658975628049-crop-1660275849774.jpeg" alt="Thị trường độc quyền" className="w-full h-80 object-contain rounded-xl bg-white shadow-lg mb-4" />
+                <img src="https://cdn2.tuoitre.vn/thumb_w/1200/2021/6/2/download-5-16226279658341186330763.jpeg" alt="Thị trường độc quyền" className="w-full h-80 object-contain rounded-xl bg-white shadow-lg mb-4" />
                 <p className="text-center text-gray-700 font-medium">Cơ cấu quyền lực trong nền kinh tế độc quyền</p>
               </div>
 
