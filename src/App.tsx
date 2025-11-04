@@ -20,10 +20,10 @@ const App = () => {
     // Play all notes in sequence so the user reads each one before download starts
     const notes = [
       'Đang đóng gói tài liệu bí mật... 🕵️‍♂️',
-      'Xin chờ — đang cho tài liệu uống cà phê để tỉnh táo ☕',
-      'Đếm ngược... 3, 2, 1... Tải ngay! 🚀',
-      'Đề thi trong đây 👀 (suỵttt!)',
-      'Học ngay để lấy 10 điểm! 🎓'
+      // 'Xin chờ — đang cho tài liệu uống cà phê để tỉnh táo ☕',
+      // 'Đếm ngược... 3, 2, 1... Tải ngay! 🚀',
+      // 'Đề thi trong đây 👀 (suỵttt!)',
+      // 'Học ngay để lấy 10 điểm! 🎓'
     ];
 
     setDownloadState('pending');
